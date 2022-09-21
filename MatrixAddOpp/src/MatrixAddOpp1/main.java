@@ -6,7 +6,7 @@ public class main {
 		//defines the first matrix
 		int[][] matrixA = {
 				{3, 2, 3},
-				{3, 9, 1}
+				{3, 5, 1}
 		};
 		
 		//defines the second matrix
